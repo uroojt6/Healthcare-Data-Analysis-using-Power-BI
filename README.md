@@ -32,8 +32,6 @@ Without a data-driven approach, these challenges can lead to long wait times, re
 * Evaluate patient wait times and satisfaction levels
 * Enable healthcare professionals to make informed operational decisions
 
----
-
 ## 🧠 Key Technologies & Skills
 
 * **Power BI**
@@ -109,7 +107,6 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 ![Healthcare Dashboard 1](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)
 ![Healthcare Dashboard 2](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
 
-
 ## 📌 Business Impact
 
 ✔ Improved understanding of hospital traffic patterns
@@ -117,13 +114,10 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 ✔ Highlighted patient wait time challenges
 ✔ Enabled data-driven decisions to improve patient satisfaction
 
-
 ## 🤝 Contributing
 
 Contributions are welcome!
 If you have suggestions, improvements, or enhancements, feel free to **open an issue or submit a pull request**.
-
----
 
 ## 📬 Contact
 
