@@ -1,7 +1,3 @@
-# Healthcare-Data-Analysis-using-Power-BI
-Here’s an **attractive, professional, and recruiter-friendly README** you can directly use on GitHub. I’ve rewritten it to be **clear, impactful, and portfolio-ready**, with strong storytelling and clean structure—perfect for **Data Analyst / Power BI roles**.
-
----
 
 # 🏥 Healthcare Data Analysis using Power BI
 
