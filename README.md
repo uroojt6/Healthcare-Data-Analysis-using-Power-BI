@@ -24,7 +24,6 @@ Inefficient resource allocation and staffing decisions
 Inability to quickly identify operational bottlenecks
 
 Without a data-driven approach, these challenges can lead to long wait times, reduced patient satisfaction, and inefficient hospital operations.
----
 
 ## 🚀 Key Objectives
 
@@ -45,8 +44,6 @@ Without a data-driven approach, these challenges can lead to long wait times, re
 * **KPI Design & Visualization**
 * **Business Intelligence & Analytics**
 
----
-
 ## ✨ Dashboard Features
 
 ### 🔍 Data Understanding
@@ -63,8 +60,6 @@ The dataset includes:
 
 These attributes provide a solid foundation for analyzing **visitor behavior, service utilization, and demographic trends**.
 
----
-
 ### 🔄 Data Preprocessing & Modeling
 
 * **ETL with Power Query:**
@@ -75,9 +70,6 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
   Created custom metrics, KPIs, and aggregations.
 * **Data Modeling:**
   Built optimized relationships between tables for scalable analytics.
-
----
-
 ## 📈 Key Insights & Analysis
 
 ### 📆 Visit Trends
@@ -86,16 +78,12 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 * **Monthly Trends:** Significant growth from **April to October**, indicating seasonal effects.
 * **Yearly Growth:** Visitor count increased by **5.8% from 2019 to 2020**, reflecting rising healthcare demand.
 * **Quarterly Analysis:** Q2 and Q3 recorded **53.9% higher visits** than Q1 and Q4.
-
----
-
+  
 ### ⏰ Time-Based Distribution
 
 * **AM vs PM:** Nearly equal distribution, with a slight **0.6% increase in AM visits**.
 * **Day of Week:** Mondays and Wednesdays are busiest; Fridays are least busy.
 * **Weekday vs Weekend:** Weekday visits are **148.83% higher**, highlighting staffing and service availability gaps.
-
----
 
 ### ⏳ Visitor Wait Time Analysis
 
@@ -103,15 +91,11 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 * **90.9%** of visitors wait **20–60 minutes**, indicating operational bottlenecks.
 * Only **9.1%** experience wait times under 20 minutes—revealing a strong opportunity for process optimization.
 
----
-
 ### 👥 Demographic Insights
 
 * **Age Groups:** Even distribution from ages 0–75; **75+ accounts for 5.04%**.
 * **Race Distribution:** White and African American visitors dominate; diverse representation overall.
 * **Gender:** Male visitors exceed females by **4.86%**.
-
----
 
 ### ⭐ Satisfaction & Department Analysis
 
@@ -120,14 +104,11 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 * **Non-Referred Visits:** **58.67%**, suggesting a high walk-in volume.
 * **Admin Flag:** Nearly **50%** of visitors are non-registered, impacting workflow and resource planning.
 
----
-
 ## 🖥️ Dashboard Preview
 
 ![Healthcare Dashboard 1](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)
 ![Healthcare Dashboard 2](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
 
----
 
 ## 📌 Business Impact
 
@@ -136,7 +117,6 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 ✔ Highlighted patient wait time challenges
 ✔ Enabled data-driven decisions to improve patient satisfaction
 
----
 
 ## 🤝 Contributing
 
@@ -149,8 +129,8 @@ If you have suggestions, improvements, or enhancements, feel free to **open an i
 
 If you’d like to collaborate or discuss this project:
 
-* **LinkedIn:** *[Add your LinkedIn here]*
-* **Email:** *[Add your email here]*
+* **LinkedIn:** *www.linkedin.com/in/urooj-tariq-586b21310*
+* **Email:** *aroojjeonkook@gmail.com*
 
 
 
