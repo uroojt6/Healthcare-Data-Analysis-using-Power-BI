@@ -105,8 +105,8 @@ These attributes provide a solid foundation for analyzing **visitor behavior, se
 ## 🖥️ Dashboard Preview
 
 ![Healthcare Dashboard 1](https://github.com/uroojt6/Healthcare-Data-Analysis-using-Power-BI/blob/main/health1.PNG)
-![Healthcare Dashboard 2](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
-https://github.com/uroojt6/Healthcare-Data-Analysis-using-Power-BI/blob/main/health1.PNG
+![Healthcare Dashboard 2](https://github.com/uroojt6/Healthcare-Data-Analysis-using-Power-BI/blob/main/health2.PNG)
+
 ## 📌 Business Impact
 
 ✔ Improved understanding of hospital traffic patterns
